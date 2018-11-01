@@ -1,0 +1,10 @@
+#myCanvas {
+  border: 1px solid grey;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+}
+
+#appContainer {
+  height: 1260px;
+}
